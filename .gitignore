@@ -1,0 +1,8 @@
+.api/
+documentation/
+nul
+delete_nul_here.bat
+settings.json
+.claude/
+CLAUDE.md
+*.zip
